@@ -2,7 +2,7 @@
 
 This repository contains my adapted code for select projects in the book "Python Playground - Geeky Porjects for the Curious Programmer" by Mahesh Venkitachalam.
 
-I credit this book with helping me learn object-oriented-programming in Python. It kickstarted my journey to create programming projects of my own and experiement with moduls and libraries like Pillow, matplotlib and numpy.
+I credit this book with helping me learn object-oriented-programming in Python. It kickstarted my journey to create programming projects of my own and experiement with modules and libraries like Pillow, matplotlib, numpy and scipy.
 
 conway.py: implements Venkitachalam's verision of the legendary mathematical problem Conway's Game of Life
 
@@ -11,5 +11,7 @@ ascii_art.py: uses a grayscale ramp to convert regular images to text files that
 out.txt: output file for ascii_art.py
 
 tank.jpg: sample image for ascii_ary.py
+
+boids.py: implements the Boids Algorithm (a.k.a. flocking algorithm) that models the flight of a group of birds
 
 Python_Playground_Book.pdf: pdf version of Venkitachalam's book
