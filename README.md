@@ -11,3 +11,5 @@ ascii_art.py: uses a grayscale ramp to convert regular images to text files that
 out.txt: output file for ascii_art.py
 
 tank.jpg: sample image for ascii_ary.py
+
+Python_Playground_Book.pdf: pdf version of Venkitachalam's book
