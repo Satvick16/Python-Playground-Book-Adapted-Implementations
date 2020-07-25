@@ -2,7 +2,7 @@
 
 This repository contains my adapted code for select projects in the book "Python Playground - Geeky Porjects for the Curious Programmer" by Mahesh Venkitachalam.
 
-I credit this book with helping me learn object-oriented-programming in Python. It kickstarted my journey to create programming projects of my own and experiement with modules and libraries like Pillow, matplotlib, numpy and scipy.
+The majority of the code is directly from the book but I have made some changes and experimented with some of the functionality to help me learn more about the various modules used in the book such as numpy, scupy and matplotlib.
 
 conway.py: implements Venkitachalam's verision of the legendary mathematical problem Conway's Game of Life
 
